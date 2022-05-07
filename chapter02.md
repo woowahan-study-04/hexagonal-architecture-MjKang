@@ -19,6 +19,9 @@
 2. 영속성 계층의 리포지토리가 도메인 계층에 있는 엔티티에 의존하기 때문에 두 계층 사이의 순환 의존성이 생긴다.
 3. 이 부분을 해결을 위해 도메인 계층에 리포지토리에 대한 인터페이스를 만들고 실제 리포지토리는 영속성 계층에서 구현한다.
 
+![image](https://user-images.githubusercontent.com/31757314/167231308-7ff5c909-28bd-43b2-bf5a-f08515cfb6b0.png)
+
+
 ### `클린 아키텍쳐`
 ![image](https://user-images.githubusercontent.com/31757314/167230986-e28c8473-5dfc-4076-9220-8e56ed3e3b5f.png)<br/>
 출처 : http://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html
