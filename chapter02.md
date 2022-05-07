@@ -40,7 +40,8 @@
 이는 바람직한 현상이다. 이것이 바로 도메인 코드를 프레임워크에 특화된 문제로부터 해방시키고자 했던, 결합이 제거된 상태다.
 
 ### `육각형 아키텍쳐(헥사고나 아키텍쳐)`
-![image](https://user-images.githubusercontent.com/31757314/167230905-303e0340-1d0e-45f9-a60e-1c5ac204417c.png)
+![image](https://user-images.githubusercontent.com/31757314/167230905-303e0340-1d0e-45f9-a60e-1c5ac204417c.png)<br/>
+출처 : https://www.slideshare.net/jrogue/ss-250763940
 
 애플리케이션 코어가 육각형으로 표현되어 이 아키텍쳐의 이름이 됐다.
 
