@@ -112,10 +112,7 @@ void increment() {
 2. 명령 : 시스템의 상태를 변경하는 작업
 3. 조회 : 시스템의 상태를 반환하는 작업
 4. 즉 명령과 조회로 작업의 책임을 분리하는 것
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/eb7e6a2d-7dfe-4710-bdb0-bd0aa534f874/Untitled.png)
-
-                                                   출처 : [https://share-factory.tistory.com/27](https://share-factory.tistory.com/27)
+![image](https://user-images.githubusercontent.com/31757314/168423308-380fbbb4-6139-401d-92e4-b3277dbe2887.png)
 
 1. Application의 BIZ정책이나 제약(비즈니스 로직)은 대부분 데이터 변경 (C,U,D) 작업에서 처리되고, 데이터 조회(R)작업은 단순 데이터 조회가 대부분
 2. 두 역할을 하나의 동일한 Domain Model로 처리하게 되면, 각 업무 영역에서의 새로운 요구사항으로 인한 Model 변경이 누적되면서 C,U,D를 위한 모델과 조회를 위한 모델간에 차이가 발생하게 됨
