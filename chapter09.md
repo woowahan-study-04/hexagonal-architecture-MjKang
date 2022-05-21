@@ -19,7 +19,7 @@
 
 애플리케이션 조립을 책임
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8023c3ce-a583-42e7-bd21-dcc19a187eaf/Untitled.png)
+![image](https://user-images.githubusercontent.com/31757314/169646636-b8bdbe83-1bba-4c37-9a6d-214920011203.png)
 
 이 설정컴포넌트는 다음과 같은 역할 수행
 
